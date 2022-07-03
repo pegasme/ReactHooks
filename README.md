@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pegasme
+- 👀 I’m interested in React, JS, TS
